@@ -32,3 +32,5 @@ GIT.training 2014
 
 All rights reserved.
 
+added line
+
